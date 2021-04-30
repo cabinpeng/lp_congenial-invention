@@ -1,4 +1,4 @@
-# cx-super-potato
+
 My first repository
 ## lp_h2
 #### lp_h4
